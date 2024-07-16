@@ -2,10 +2,10 @@
 This project helps you to extract LinkedIn posts and save them as images or text files. It is useful for archiving, sharing, or analyzing your LinkedIn content. The extractor uses a combination of web scraping and automation tools to navigate LinkedIn, capture posts, and save them in the desired format.
 
 ## Features
-**Extract Posts as Images:** Capture the visual appearance of your LinkedIn posts.\
-**Extract Posts as Text:** Save the textual content of your LinkedIn posts.\
-**Automated Browsing:** Uses Google Chrome and ChromeDriver to automate the browsing process.\
-**Easy to Use:** Simple command-line interface to start the extraction process.\
+- **Extract Posts as Images:** Capture the visual appearance of your LinkedIn posts.\
+- **Extract Posts as Text:** Save the textual content of your LinkedIn posts.\
+- **Automated Browsing:** Uses Google Chrome and ChromeDriver to automate the browsing process.\
+- **Easy to Use:** Simple command-line interface to start the extraction process.\
 
 ## Installation
 To get started with the LinkedIn Post Extractor, follow these installation steps:
@@ -44,7 +44,7 @@ python3 post-extractor.py
 ```
 >The script will prompt you to enter your LinkedIn credentials and then proceed to extract your posts.
 
-3. **Choose Output Format:** Select whether you want to save the posts as images or text files.
+3. **Choose Output Path:** Select whether you want to save the posts as images or text files.
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please create an issue or submit a pull request.
